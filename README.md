@@ -9,12 +9,6 @@ Welcome to my GitHub profile! 🚀
 - 📫 How to reach me: **[Your Email or Social Media Handles]**.
 - 🏡 Based in **[Your Location]**.
 
-## 🛠️ Skills & Tools
-- **Programming Languages**: [e.g., Python, JavaScript, C++, Java]
-- **Frameworks & Libraries**: [e.g., React, Node.js, Django, Flask]
-- **Tools**: [e.g., Git, Docker, VS Code, Linux]
-- **Databases**: [e.g., MySQL, PostgreSQL, MongoDB]
-
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
